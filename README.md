@@ -10,5 +10,6 @@ Objective:
 1. Bagaimana trend yang terjadi pada Airbnb Singapore
 2. Bagaimana peluang bisnis untuk calon owner property Airbnb di Singapore
 
-
-
+Tools:
+1. SQL Server Management Studio - Data Preprocessing
+2. Google Collab (Python) - Data Visualization
